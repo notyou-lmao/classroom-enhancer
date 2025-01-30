@@ -1,6 +1,6 @@
 # How to Add a Bookmarklet to Your Browser
 
-1. Copy the Bookmarklet Code
+## 1. Copy the Bookmarklet Code
 
 First, copy the bookmarklet code provided. For example:
 
@@ -15,14 +15,14 @@ javascript:(function() {
 Make sure to replace 'https://raw.githubusercontent.com/username/repo/branch/script.js' with the actual URL to the raw GitHub file you want to run.
 
 
-2. Open Your Browser's Bookmarks Bar
+## 2. Open Your Browser's Bookmarks Bar
 
 ![image](https://github.com/user-attachments/assets/5999fd3b-06ec-4da1-a8f8-b0c9dae21f94)
 
 In most browsers, you can enable the bookmarks bar by pressing Ctrl + Shift + B (Windows) or Cmd + Shift + B (Mac), or by going to your browser settings and enabling the bookmarks bar.
 
 
-3. Create a New Bookmark
+## 3. Create a New Bookmark
 
 ![image](https://github.com/user-attachments/assets/fb9ef161-bf20-41d8-8c84-bba258f2f90e)
 
@@ -30,7 +30,7 @@ Right-click anywhere on the bookmarks bar (or in the bookmarks section of your b
 In the "Name" field, give your bookmarklet a name (e.g., "Run GitHub Script").
 
 
-4. Paste the Bookmarklet Code
+## 4. Paste the Bookmarklet Code
 
 In the "URL" or "Location" field, paste the bookmarklet code you copied in step 1.
 Make sure the code starts with javascript: and is properly pasted without any breaks.
@@ -38,12 +38,12 @@ Make sure the code starts with javascript: and is properly pasted without any br
 ![image](https://github.com/user-attachments/assets/a2508eac-aa93-40b3-9a47-ed7e19f947aa)
 
 
-5. Save the Bookmark
+## 5. Save the Bookmark
 
 After pasting the code, click Save or Add to save the bookmarklet to your bookmarks bar.
 
 
-6. Test the Bookmarklet
+## 6. Test the Bookmarklet
 
 Now, go to any webpage and click on the bookmarklet in your bookmarks bar.
 The JavaScript file from the GitHub repo should be pulled and executed on the current page.
