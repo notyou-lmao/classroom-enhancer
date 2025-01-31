@@ -18,6 +18,12 @@ color: #ffffff !important;
 color: rgb(255 255 255) !important;
 border-color: rgb(255 0 0) !important;
 }
+.Po14Kd {
+    background-color: rgb(104 62 62);
+}
+.BWOvob {
+    background-color: rgb(232 26 26);
+}
 .OLiIxf .PDpWxe .P62QJc {
 border-width: 2px !important;
 }
