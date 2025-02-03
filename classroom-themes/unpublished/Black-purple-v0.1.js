@@ -37,10 +37,10 @@ background-color: #2c2c2c;
 color: #ffffff;
 }
 .WmnPA .VfPpkd-fmcmS-wGMbrd {
-caret-color: #ff0000;
+caret-color: #9c00ff;
 }
 .WmnPA:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-RWgCYc-ksKsZd::after {
-border-bottom-color: #ff0000;
+border-bottom-color: #9c00ff;
 }
 .zuzKle.xVPuB, .zuzKle.vnnr5e {
 color: rgb(255 255 255);
@@ -61,13 +61,13 @@ color: #fff0000;
 background-color: #414141;
 }
 .mwJvDe .KEDCCd {
-border-bottom: .0625rem solid rgb(167 0 0);
+border-bottom: .0625rem solid rgb(124 3 158);
 }
 .B7SYid {
 color:#ff4444;
 }
 .CbuVcc:focus .Pce5Kb, .CbuVcc:hover .Pce5Kb {
-color: rgb(255 63 63);
+color: #9c00ff;
 }
 .GWZ7yf {
 border-radius: 1.2rem;
@@ -82,7 +82,7 @@ color: rgb(255 255 255);
 color: #ff5555;
 }
 .onkcGd:hover, .onkcGd, .onkcGd:visited, .onkcGd:visited:hover {
-color: #ff0000;
+color: #9c00ff;
 }
 .ReCbLb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me) .VfPpkd-uusGie-fmcmS {
     color: rgb(255 255 255);
@@ -111,10 +111,10 @@ background-color: rgb(0 0 0 / 11%);
 height: 0%;
 }
 .Iwp0Ue:not(.xp2dJ):not(.rZXyy):hover.rXdid, .Iwp0Ue:not(.xp2dJ):not(.rZXyy):hover.h7Ww0, .Iwp0Ue:not(.xp2dJ):not(.rZXyy):hover .rXdid, .Iwp0Ue:not(.xp2dJ):not(.rZXyy):hover .h7Ww0, .xWw7yd:hover.rXdid, .xWw7yd:hover.h7Ww0, .xWw7yd:hover .rXdid, .xWw7yd:hover .h7Ww0 {
-background-color: rgb(85 20 20);
+background-color: rgb(65 20 85);
 }
 .YrFhrf-ZoZQ1 {
-color: #ff5656;
+color: #da56ff;
 }
 .qyN25 {
     height: 6rem;
@@ -123,11 +123,11 @@ color: #ff5656;
     background: #3c3c3c;
     }
     .ksBjEc:not(:disabled) {
-        color: #ff7c7c !important;
-    color: var(--gm-colortextbutton-ink-color, #ff7c7c) !important;
+        color: #eb7cff !important;
+    color: var(--gm-colortextbutton-ink-color, #eb7cff) !important;
     }
 .gb_Ea svg, .gb_Oc svg, .gb_rd .gb_sd, .gb_1c .gb_sd {
-color:#c22;
+color:#9d00ff;
 }
 .OjOEXb, .ZizeYd, .O7utsb, .ZmqAt, .ee1HBc.CNpREd .bFjUmb-Tvm9db {
 background-color: #2c2c2c;
@@ -145,7 +145,7 @@ background-color:#3c3c3c;
 color:#fff;
 }
 .NMm5M:hover {
-color: #cc2222;
+color: #9d00ff;
 }
 .rpo4wf-J3yWx, .Pce5Kb, .dR850e {
 color:#fff;
@@ -414,7 +414,7 @@ console.log("Images updated successfully");
         banner.style.fontSize = '1rem';
         banner.style.fontWeight = 'bold';
         banner.style.zIndex = '9999';
-        banner.style.backgroundColor = '#cc2222';
+        banner.style.backgroundColor = '#9d00ff';
         banner.style.color = '#ffffff';
         banner.innerText = "The script is loading, please wait.";
 
@@ -427,11 +427,11 @@ console.log("Images updated successfully");
         let toggle = true;
         const flashInterval = setInterval(() => {
             if (toggle) {
-                banner.style.backgroundColor = '#cc2222';
+                banner.style.backgroundColor = '#9d00ff';
                 banner.style.color = '#ffffff';
             } else {
                 banner.style.backgroundColor = '#ffffff';
-                banner.style.color = '#cc2222';
+                banner.style.color = '#9d00ff';
             }
             toggle = !toggle;
         }, 800);
@@ -441,7 +441,7 @@ console.log("Images updated successfully");
 
     function stopFlashing(banner, flashInterval) {
         clearInterval(flashInterval);
-        banner.style.backgroundColor = '#cc2222';
+        banner.style.backgroundColor = '#9d00ff';
         banner.style.color = '#ffffff';
         banner.innerText = "Script loaded. Enjoy! Buy me a coffee? buymeacoffee.com/nyltheemoboy";
 
