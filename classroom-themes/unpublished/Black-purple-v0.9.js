@@ -15,20 +15,36 @@ color: #39ff43;
 color: #ffffff !important;
 }
 .Rj2Mlf:not(:disabled) {
-color: rgb(255 255 255) !important;
-border-color: rgb(255 0 0) !important;
+    color: rgb(255 255 255) !important;
+    border-color: #991ae8 !important;
 }
 .Po14Kd {
-    background-color: rgb(104 62 62);
+    background-color: rgb(95 62 104);
 }
 .BWOvob {
-    background-color: rgb(232 26 26);
+    background-color: rgb(178 26 232);
+}
+.ReCbLb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me).VfPpkd-O1htCb-OWXEXe-XpnDCe .VfPpkd-NSFCdd-i5vt6e .VfPpkd-NSFCdd-Brv4Fb, .ReCbLb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me).VfPpkd-O1htCb-OWXEXe-XpnDCe .VfPpkd-NSFCdd-i5vt6e .VfPpkd-NSFCdd-Ra9xwd, .ReCbLb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me).VfPpkd-O1htCb-OWXEXe-XpnDCe .VfPpkd-NSFCdd-i5vt6e .VfPpkd-NSFCdd-MpmGFe {
+    border-color: rgb(159 26 232);
+}
+.Eajscb .vT1Gyc.N4XV7d {
+    color: rgb(255 255 255);
+}
+.Eajscb .vT1Gyc.F262Ye {
+    background-color: rgb(161 26 232);
+    color: #fff;
+}
+.Eajscb .nGZbac.F262Ye {
+    color: rgb(161 26 232);
+}
+.ReCbLb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me).VfPpkd-O1htCb-OWXEXe-XpnDCe .VfPpkd-t08AT-Bz112c {
+    fill: rgb(250 250 250);
 }
 .OLiIxf .PDpWxe .P62QJc {
 border-width: 2px !important;
 }
 .nCP5yc:not(:disabled) {
-background-color: rgb(232 26 26) !important;
+    background-color: rgb(153 26 232) !important;
 }
 .WmnPA:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) {
 background-color: #2c2c2c;
@@ -46,10 +62,14 @@ border-bottom-color: #9c00ff;
 color: rgb(255 255 255);
 }
 .apFsO.onkcGd {
-color: rgb(255 54 54) !important;
+    color: rgb(187 15 254) !important;
 }
 .WMQb5e .oBSRLe:first-of-type {
 color: #fff;
+}
+.ndfHFb-c4YZDc-uoC0bf a {
+    color: rgb(184 85 248);
+    cursor: pointer;
 }
 .xVPuB .Aworge {
 color: #fff0000;
@@ -64,7 +84,7 @@ background-color: #414141;
 border-bottom: .0625rem solid rgb(124 3 158);
 }
 .B7SYid {
-color:#ff4444;
+    color: #b844ff;
 }
 .CbuVcc:focus .Pce5Kb, .CbuVcc:hover .Pce5Kb {
 color: #9c00ff;
@@ -73,13 +93,13 @@ color: #9c00ff;
 border-radius: 1.2rem;
 }
 .s8kOBc .VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd {
-background-color: rgb(126 28 28);
+    background-color: rgb(90 28 126);
 }
 .s8kOBc .VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd .VfPpkd-rymPhb-fpDzbe-fmcmS {
 color: rgb(255 255 255);
 }
 .s8kOBc .VfPpkd-rymPhb-Gtdoyb, .s8kOBc .VfPpkd-rymPhb-fpDzbe-fmcmS {
-color: #ff5555;
+    color: #db55ff;
 }
 .onkcGd:hover, .onkcGd, .onkcGd:visited, .onkcGd:visited:hover {
 color: #9c00ff;
@@ -223,8 +243,8 @@ a:visited {
     background-color: rgba(76, 76, 76, .5) !important;
 }
 .UAJaRc {
-    height: 27px;
-    width: 28px;
+    height: 37px;
+    width: 38px;
     overflow: visible;
 }
 
@@ -373,7 +393,7 @@ console.log("Styles applied successfully");
     function updateImages() {
         const imgElements = document.querySelectorAll("img.UAJaRc");
         imgElements.forEach(function(imgElement) {
-            imgElement.src = "https://adamsdrivingschool.com/wp-content/uploads/2024/02/icons8_google_classroom_480px.png";
+            imgElement.src = "https://img.icons8.com/?size=512&id=79060&format=png";
         });
     }
 
