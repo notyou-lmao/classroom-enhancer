@@ -21,6 +21,20 @@ color: #ffffff !important;
 .Po14Kd {
     background-color: rgb(95 62 104);
 }
+.cC1eCc .VfPpkd-P5QLlc {
+    background-color: #652e77;
+}
+.cC1eCc .VfPpkd-k2Wrsb {
+    color: #fcfcfc;
+}
+.qj5L0 {
+    border-bottom: .0625rem solid rgb(251 251 251);
+    margin-bottom: .5rem;
+    padding-bottom: 1rem;
+}
+.cC1eCc .VfPpkd-cnG4Wd {
+    color: #d5d5d5;
+}
 .BWOvob {
     background-color: rgb(178 26 232);
 }
