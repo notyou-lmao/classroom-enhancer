@@ -8,6 +8,22 @@ body {
     background: #2c2c2c;
     color: #fff;
 }
+.WufxEd .ynt9Dc .VfPpkd-WLXbod {
+    background-color: rgb(120 84 140);
+}
+.geqPvd .VfPpkd-WLXbod {
+    border-bottom-color: rgb(120 84 140);
+}
+.geqPvd .VfPpkd-Rj7Y9b {
+    color: rgb(255 255 255);
+    font-weight: 300;
+}
+.geqPvd {
+    border-bottom-color: rgb(120 84 140);
+}
+.WufxEd .ynt9Dc {
+    background-color: rgb(120 84 140);
+}
 .vzcr8 {
 color: #39ff43;
 }
