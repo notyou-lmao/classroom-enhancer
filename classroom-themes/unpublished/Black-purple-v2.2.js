@@ -156,8 +156,8 @@ overflow: hidden;
 border-width: .2rem .2rem 0rem 0rem;
 }
 .LjDxcd:not(:disabled) {
-    color: rgb(255, 124, 124);
-    color: rgb(255 124 124);
+    color: rgb(185 63 239);
+    color: rgb(186 63 240);
 }
 .IzVHde {
     background-color: #313131;
