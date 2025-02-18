@@ -29,6 +29,11 @@ body {
 .vzcr8 {
 color: #39ff43;
 }
+.IzVHde {
+    background-color: #2f0438;
+    display: flex;
+    justify-content: space-between;
+}
 .q6oraf .VfPpkd-StrnGf-rymPhb {
 color: #ffffff !important;
 }
