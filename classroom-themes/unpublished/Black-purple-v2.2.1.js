@@ -10,6 +10,9 @@ body {
     background-size: 100% 100%;
     background-attachment: fixed;
 }
+.yWU57c.AjWMy .rknsod {
+    background-color: #0f00176b;
+}
 .WufxEd .ynt9Dc .VfPpkd-WLXbod {
     background-color: rgb(120 84 140);
 }
