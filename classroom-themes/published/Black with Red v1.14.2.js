@@ -8,6 +8,9 @@ body {
     background: #2c2c2c;
     color: #fff;
 }
+.yWU57c.AjWMy .rknsod {
+    background-color: #383838;
+}
 .vzcr8 {
 color: #39ff43;
 }
