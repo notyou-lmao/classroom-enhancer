@@ -9,6 +9,9 @@ body {
 .xVPuB .snByac, .vnnr5e .snByac {
     color: #ffffff;
 }
+.yWU57c.AjWMy .rknsod {
+    background-color: #383838;
+}
 .VfPpkd-xl07Ob-XxIAqe {
 background-color: #414141;
 }
