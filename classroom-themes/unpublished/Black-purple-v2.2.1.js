@@ -11,7 +11,7 @@ body {
     background-attachment: fixed;
 }
 .yWU57c.AjWMy .rknsod {
-    background-color: #0f00176b;
+    background-color: #180025c7;
 }
 .WufxEd .ynt9Dc .VfPpkd-WLXbod {
     background-color: rgb(120 84 140);
